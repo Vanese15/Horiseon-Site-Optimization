@@ -51,7 +51,7 @@ p {
 }
 
 .hero {
-    height: 1000px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -87,7 +87,7 @@ p {
 }
 
 .benefit-lead {
-    margin-bottom: 85px;
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
@@ -160,22 +160,32 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    height: 300px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    height: 300px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    height: 300px;
 }
 
 .footer {
@@ -186,5 +196,5 @@ p {
 }
 
 .footer h2 {
-   font-size: 20px;
+    font-size: 20px;
 }
